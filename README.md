@@ -55,8 +55,8 @@ pnpm tauri dev
 4. Push to the branch: git push origin feature/new-feature.
 5. Create a pull request.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+### Author
 Deepak Kumar
