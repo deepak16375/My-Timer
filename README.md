@@ -34,3 +34,30 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ```bash
 git clone https://github.com/your-username/pomodoro-timer.git
+
+### Install dependencies:
+
+cd pomodoro-timer
+pnpm install
+
+### Run the app:
+pnpm tauri dev
+
+### Usage
+- Set the timer duration for work and break intervals.
+- Start the timer and focus during work intervals.
+- Track your study history and total study hours.
+
+### Contributing
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/new-feature.
+3. Make your changes and commit: git commit -m 'Add new feature'.
+4. Push to the branch: git push origin feature/new-feature.
+5. Create a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Author
+Deepak Kumar
