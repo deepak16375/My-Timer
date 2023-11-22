@@ -12,8 +12,10 @@ A simple Pomodoro Timer app built with Tauri and Next.js.
 ## Screenshots
 
 
-![Screenshot 2023-11-22 204105](https://github.com/deepak16375/My-Timer/assets/121186317/3df8a63b-b3c7-41de-aae8-f6ff3d713253)
+![Screenshot 2023-11-22 204105](https://github.com/deepak16375/My-Timer/assets/121186317/3df8a63b-b3c7-41de-aae8-f6ff3d713253) 
+<p align="left">
 ![Screenshot 2023-11-22 204125](https://github.com/deepak16375/My-Timer/assets/121186317/95a035fc-72af-4e2f-882a-4647e27265b1)
+</p>
 ![Screenshot 2023-11-22 204141](https://github.com/deepak16375/My-Timer/assets/121186317/c6b19aa5-4374-40d2-8766-9fff49dcc4d3)
 ## Getting Started
 
