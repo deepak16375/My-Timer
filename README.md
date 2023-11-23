@@ -37,6 +37,7 @@ git clone https://github.com/your-username/pomodoro-timer.git
 ### Install dependencies:
 
 cd pomodoro-timer
+
 pnpm install
 
 ### Run the app:
